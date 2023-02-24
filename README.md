@@ -1,7 +1,7 @@
 # Reinforcement Learning Coffee Agent
 
-# <sub><sub>Got tired waiting above your Moka pot getting anxious over your esspresso exploding to the universe.<sub><sub>
-  <sub><sub>You would like to have a personal barista but cant afford it.<sub><sub>
+# <sub><sub>Got tired waiting above your Moka pot getting anxious over your esspresso exploding to the universe.
+  You would like to have a personal barista but cant afford it.<sub><sub>
 
 # <sub><sub>Say no more<sub><sub>
 
